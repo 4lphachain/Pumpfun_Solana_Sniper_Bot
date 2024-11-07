@@ -80,7 +80,7 @@ Go to the project's GitHub page, click the "Code" button and select "Download ZI
 Open a terminal and navigate to the project folder
 
 ```python
-cd SOLANA-SNIPER-BOT
+cd Pumpfun_Solana_Sniper_Bot
 ```
 
 - Install libraries
