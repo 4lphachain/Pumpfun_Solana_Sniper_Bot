@@ -28,8 +28,8 @@
 
 The Solana Sniper/Trading Bot is a groundbreaking tool in the booming Solana ecosystem, designed to tackle a common issue faced by traders: missing out on profit opportunities after purchasing tokens on the Solana network, leading to token rug-pulls or dumps. This software not only integrates sniping functionality, allowing users to instantly acquire tokens upon their launch but also adds trading tools to optimize one’s position.
 
-**Available for both iOS and Android and PC .**
-![Screenshot 2024-04-05 052559](https://github.com/olymporod/Solana-Snipe-Bot/assets/166156731/85f5eee8-dfdb-4a13-b7c0-dd0876e91d2d)
+**Logs .**
+![Screenshot 2024-04-05 052559](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
 
 
 
@@ -50,7 +50,7 @@ A few of the things you can do with Bot:
 - User friendly interface - hands-on interface
 
 **Making the first to trade in new tokens.**
-<img width="910" alt="2" src="https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d">
+<img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
 
 
 ## Installation
