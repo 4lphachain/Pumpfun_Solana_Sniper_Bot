@@ -50,7 +50,7 @@ A few of the things you can do with Bot:
 - User friendly interface - hands-on interface
 
 **Making the first to trade in new tokens.**
-<img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
+<img width="910" alt="2" src="https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d">
 
 
 ## Installation
