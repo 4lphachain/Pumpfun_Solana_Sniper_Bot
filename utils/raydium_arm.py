@@ -1,7 +1,7 @@
 async def main():
     global amm, cex
     load_conf()
-    amm = Liquidity(
+    amm = Liquidity( 
         config['solanaEndpoint'],
         get_amm_id(config["baseMint"]),
         config['walletSecretKey'],
